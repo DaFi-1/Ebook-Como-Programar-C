@@ -623,20 +623,32 @@
 //e) 12,9,6...
 //==========================================
 //4.7 - 138pg
-#include <stdio.h> 
+//#include <stdio.h> 
+//
+//int main()
+//{
+//    printf("HELLO!!!!..\n");
+//}
+//
 
-int main()
-{
-    printf("HELLO!!!!..\n");
+
+
+
+
+
+//CAPITULO ---- 16 C++
+#include <iostream>
+using namespace std;
+
+
+
+class NomeDaClasse {
+    private:
+    protected:
+    public:
+         NomeDaClasse(){}; // construtor
+        ~NomeDaClasse(){}; // destrutor
 }
-
-
-
-
-
-
-
-
 
 
 
